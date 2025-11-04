@@ -36,7 +36,7 @@ This library helps teams:
 |---------|----------|
 | Power & Energy Functions| Solar panel, Battery pack, Relays, MPPT ...|
 | Safety Functions | E-Stop, Dead-man switch, Fuse, Breaker, ...|
-| Others | Antennas, Shunts, ... | 
+| Others | Antenna, Current shunt, ... | 
 
 ---
 
