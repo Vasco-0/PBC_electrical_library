@@ -12,7 +12,6 @@ The goal of this library is to ensure all teams present electrical systems clear
 This library helps teams:
 
 ✅ Use a uniform symbol language across the competition  
-✅ Clearly document electric vessel systems  
 ✅ Communicate safety circuits to judges & inspectors  
 ✅ Reduce ambiguity in electrical submissions  
 ✅ Improve clarity & professionalism of schematics  
