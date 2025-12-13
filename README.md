@@ -25,7 +25,6 @@ This library helps teams:
 | `/Altium/` | Competition symbols for Altium Designer |
 | `/KiCad/` | Competition symbols for KiCad |
 | `/Preview/` | PNG/SVG previews of schematic symbols |
-| `/Docs/` | Symbol naming conventions & usage notes |
 
 ---
 
