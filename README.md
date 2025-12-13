@@ -42,9 +42,11 @@ This library helps teams:
 
 ### Altium
 
+- First link the library file to your project
 - Go to `Tools` → `Preferences...`
 - Navigate to `Data Management` → `File-based Libraries`
 - Click `Install`, browse to the cloned repository folder and select the `.SchLib` file
+- Next change the sheet template
 - Go to `Design`  → `Sheet Templates`  → `Local`  → `Load from File...`
 - Select the `.SchDot` from the repository folder
 
@@ -52,7 +54,7 @@ This library helps teams:
 - Add the `.kicad_sym` file to your global/project libraries
 
 ### Other Tools
-- Use symbols from `/Other` or `/Preview` folders
+- Use symbols from the `/Preview` folder
 - Or create equivalents based on the provided references
 
 ---
