@@ -46,7 +46,7 @@ This library helps teams:
 
 - Go to Tools → Preferences
 - Navigate to Data Management → File-Based Libraries
-- Click Install and browse to the cloned repository folder
+- Click Install, browse to the cloned repository folder and select the `.SchLib` file
 
 ### KiCad
 - Add the `.kicad_sym` file to your global/project libraries
