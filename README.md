@@ -49,6 +49,8 @@ This library helps teams:
 - Next change the sheet template
 - Go to `Design`  → `Sheet Templates`  → `Local`  → `Load from File...`
 - Select the `.SchDot` from the repository folder
+- In the `Properties` panel select the `Parameters` tab
+- Fill in the `DrawnBy`, `Date` and `Team Name` fields
 
 ### KiCad
 - Add the `.kicad_sym` file to your global/project libraries
