@@ -22,8 +22,8 @@ This library helps teams:
 
 | Folder | Description |
 |--------|------------|
-| `/Altium/` | Competition symbols for Altium Designer |
-| `/KiCad/` | Competition symbols for KiCad |
+| `/Altium/` | Competition symbols and templates for Altium Designer |
+| `/KiCad/` | Competition symbols and templates for KiCad |
 | `/Preview/` | PNG/SVG previews of schematic symbols |
 
 ---
@@ -98,11 +98,11 @@ MIT License — freely usable for **Portugal Boat Challenge** teams and educatio
 Created to support the Portugal Boat Challenge community  
 and promote standardized, safe, and clear electric-boat engineering.
 
-If this library helps your team, please ⭐ star the repo and share improvements!
+If this library helps your team, please ⭐ star the repo!
 
 ---
 
 ## 📧 Contact
 
 Questions or suggestions?  
-Open an issue or contact the maintainers.
+Open an issue or contact the maintainers portugalboatchallenge@gmail.com.
