@@ -43,8 +43,10 @@ This library helps teams:
 ## 🚀 Using the Library
 
 ### Altium
-- Import the `.SchLib`
-- Place components in your system diagram
+
+- Go to Tools → Preferences
+- Navigate to Data Management → File-Based Libraries
+- Click Install and browse to the cloned repository folder
 
 ### KiCad
 - Add the `.kicad_sym` file to your global/project libraries
@@ -65,8 +67,8 @@ All teams must follow consistent wire colors to ensure clarity and compliance:
 | **Regulated DC Bus Voltage** | Voltage conditioned by converters  | **Orange (+)** |
 | **PV DC Voltage** | Direct output from PV panels  | **Yellow (+)** |
 | **Ground**  | Electrical reference point | **Black** |
-| Safety / E-Stop circuit | - | **Bright Purple** |
-| Sensor / Signal | - | **Blue** |
+| **Safety / E-Stop circuit** | - | **Bright Purple** |
+| **Sensor / Signal** | - | **Blue** |
 
 
 ## 🌍 Contribution Guidelines
