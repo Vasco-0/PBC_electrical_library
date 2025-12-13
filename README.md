@@ -47,6 +47,8 @@ This library helps teams:
 - Go to `Tools` → `Preferences...`
 - Navigate to `Data Management` → `File-based Libraries`
 - Click `Install`, browse to the cloned repository folder and select the `.SchLib` file
+- Go to `Design`  → `Sheet Templates`  → `Local`  → `Load from File...`
+- Select the `.SchDot` from the repository folder
 
 ### KiCad
 - Add the `.kicad_sym` file to your global/project libraries
