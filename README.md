@@ -44,9 +44,9 @@ This library helps teams:
 
 ### Altium
 
-- Go to Tools → Preferences
-- Navigate to Data Management → File-Based Libraries
-- Click Install, browse to the cloned repository folder and select the `.SchLib` file
+- Go to `Tools` → `Preferences...`
+- Navigate to `Data Management` → `File-based Libraries`
+- Click `Install`, browse to the cloned repository folder and select the `.SchLib` file
 
 ### KiCad
 - Add the `.kicad_sym` file to your global/project libraries
