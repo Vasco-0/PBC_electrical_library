@@ -24,7 +24,7 @@ This library helps teams:
 |--------|------------|
 | `/Altium/` | Competition symbols and templates for Altium Designer |
 | `/KiCad/` | Competition symbols and templates for KiCad |
-| `/Preview/` | PNG/SVG previews of schematic symbols |
+| `/Preview/` | PNG/SVG previews and guidelines  |
 
 ---
 
@@ -82,7 +82,7 @@ All teams must follow consistent wire colors to ensure clarity and compliance:
 We welcome contributions to extend symbol coverage:
 
 - Submit only **schematic symbols**
-- Follow naming and style rules in `/Docs/Symbol_Guidelines.md`
+- Follow naming and style rules in `/Preview/Symbol_Guidelines.md`
 - Include a preview (.png or .svg) for each new symbol
 
 To contribute:
